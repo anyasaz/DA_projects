@@ -8,70 +8,70 @@
 *Использованные библиотеки:* Pandas
 
 
-### [Исследование надёжности заёмщиков](https://github.com/anyasaz/DA_projects/tree/main/banking)
+### :pound: [Исследование надёжности заёмщиков](https://github.com/anyasaz/DA_projects/tree/main/banking)
 
 В этом проекте я изучала статистику о платежеспособности клиентов банка, чтобы разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.
 
 *Использованные библиотеки:* Pandas
 
 
-### [Исследование рынка недвижимости](https://github.com/anyasaz/DA_projects/tree/main/real_estate)
+### :department_store: [Исследование рынка недвижимости](https://github.com/anyasaz/DA_projects/tree/main/real_estate)
 
 В этом проекте я изучала, какие параметры влияют на рыночную стоимость объектов недвижимости и каким образом и вычисляла среднюю стоимость жилья для разных районов Петербурга и других городов Ленобласти.
 
 *Использованные библиотеки:* Pandas, Seaborn, Matplotlib
 
 
-### [Оценка тарифов телеком компании](https://github.com/anyasaz/DA_projects/tree/main/tariffs)
+### :telephone_receiver: [Оценка тарифов телеком компании](https://github.com/anyasaz/DA_projects/tree/main/tariffs)
 
 В этом проекте я сделала предварительный анализ тарифов, проанализировала поведение клиентов и сделала вывод — какой тариф лучше.
 
 *Использованные библиотеки:* Pandas, Matplotlib, NumPy, SciPy
 
 
-### [Исследование популярности игр](https://github.com/anyasaz/DA_projects/tree/main/game_genres)
+### :tv: [Исследование популярности игр](https://github.com/anyasaz/DA_projects/tree/main/game_genres)
 
 В этом проекте я выявила закономерности, определяющие успешность игры.
 
 *Использованные библиотеки:* Pandas, Matplotlib, NumPy, SciPy, Seaborn
 
 
-### [Исследование маркетинга приложения ](https://github.com/anyasaz/DA_projects/tree/main/app_marketing)
+### :iphone: [Исследование маркетинга приложения](https://github.com/anyasaz/DA_projects/tree/main/app_marketing)
 
 В этом проекте я изучила окупаемость затрат на маркетинг приложения, описала возможные причины неэффективности привлечения пользователей и дала рекомендации для рекламного отдела.
 
 *Использованные библиотеки:* Pandas, Matplotlib, NumPy, DateTime, Seaborn
 
 
-### [Анализ А/В теста для интернет-магазина](https://github.com/anyasaz/DA_projects/tree/main/ecomm_abtest)
+### :abacus: [Анализ А/В теста для интернет-магазина](https://github.com/anyasaz/DA_projects/tree/main/ecomm_abtest)
 
 В этом проекте я приоритизировала гипотезы по увеличению выручки интернет-магазина, запустила A/B-тест и проанализировала его результаты. 
 
 *Использованные библиотеки:* Pandas, Matplotlib, NumPy, DateTime, SciPy
 
 
-### [Анализ пользовательского поведения в мобильном приложении](https://github.com/anyasaz/DA_projects/tree/main/app_funnel_abtest)
+### :calling: [Анализ пользовательского поведения в мобильном приложении](https://github.com/anyasaz/DA_projects/tree/main/app_funnel_abtest)
 
 В этом проекте я на основе данных использования мобильного приложения проанализировала воронку продаж, а также оценила результаты A/A/B-тестирования.  
 
 *Использованные библиотеки:* Pandas, Matplotlib, NumPy, DateTime, SciPy, Math
 
 
-### [Анализ рынка общественного питания Москвы](https://github.com/anyasaz/DA_projects/tree/main/cafes)
+### :ramen: [Анализ рынка общественного питания Москвы](https://github.com/anyasaz/DA_projects/tree/main/cafes)
 
 В этом проекте я исследовала рынок общественного питания на основе открытых данных и подготовила презентацию для инвесторов.  
 
 *Использованные библиотеки:* Pandas, Matplotlib, Seaborn, Plotly, Folium, Json
 
 
-### [Расчет модели монетизации игры](https://github.com/anyasaz/DA_projects/tree/main/game_monetisation)
+### :moneybag: [Расчет модели монетизации игры](https://github.com/anyasaz/DA_projects/tree/main/game_monetisation)
 
 В этом проекте я проанализировала поведение игроков и предложила заказчику альтернативную модель монетизации.  
 
 *Использованные библиотеки:* Pandas, Matplotlib, Seaborn, Plotly, DateTime, SciPy
 
 
-### [Проверка корректности проведения А/В теста](https://github.com/anyasaz/DA_projects/tree/main/abtest_check)
+### :chart_with_upwards_trend: [Проверка корректности проведения А/В теста](https://github.com/anyasaz/DA_projects/tree/main/abtest_check)
 
 В этом проекте я проверила корректность проведения А/В тестирования и проанализировала полученные результаты.
 
