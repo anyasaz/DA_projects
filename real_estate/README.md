@@ -46,7 +46,7 @@
 
 ## Использованные библиотеки
 
-pandas, Matplotlib, seaborn
+Pandas, Matplotlib, Seaborn
 
 ## Ключевые навыки
 
