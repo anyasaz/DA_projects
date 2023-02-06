@@ -28,3 +28,9 @@
 
 *Использованные библиотеки:* pandas, Matplotlib, NumPy, SciPy
 
+
+### [Исследование популярности игр](https://github.com/anyasaz/DA_projects/tree/main/game_genres)
+
+В этом проекте я выявила закономерности, определяющие успешность игры.
+
+*Использованные библиотеки:* pandas, Matplotlib, NumPy, SciPy, Seaborn
